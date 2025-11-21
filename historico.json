@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "faz um código ai pra mim que funcione direito é pra um sistema que mexe com usuário deixa ele bom e rapido usa qualquer linguagem quero que seja completo mas sem muita coisa tem que ser seguro pode inventar oq precisar"
+  },
+  {
+    "role": "assistant",
+    "content": "Perguntas adicionais necessárias:\n- Qual é a funcionalidade específica do sistema que você deseja implementar?\n- Você tem alguma preferência de linguagem de programação?\n- Existem requisitos de segurança específicos que você gostaria que fossem considerados?"
+  },
+  {
+    "role": "user",
+    "content": "eh um sistema de e-commerce, de preferencia com java, quero que as senhas sejam criptogradas "
+  },
+  {
+    "role": "assistant",
+    "content": "Prompt reestruturado:\n\"Crie um código completo em Java para um sistema de e-commerce que permita a gestão de usuários. O sistema deve incluir funcionalidades de registro e login, garantindo que as senhas sejam criptografadas. O código deve ser eficiente e seguro, mas não precisa de muitos recursos adicionais. Sinta-se à vontade para inventar quaisquer detalhes necessários para a implementação.\"\n\nTécnica utilizada:\nUSC (User Story Context)\n\nJustificativa técnica:\nA técnica USC é adequada para a geração de código, pois permite que o sistema compreenda o contexto e as necessidades do usuário, gerando um código que atende aos requisitos específicos de funcionalidade, segurança e eficiência solicitados pelo usuário."
+  }
+]
